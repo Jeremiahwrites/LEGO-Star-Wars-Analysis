@@ -154,9 +154,9 @@ The findings demonstrate that:
 # Project Structure
 
 ```bash
-├── lego_sets.csv
+├── README.md
+└── lego_sets.csv
 └── parent_themes.csv
-└── README.md
 ```
 
 ---
